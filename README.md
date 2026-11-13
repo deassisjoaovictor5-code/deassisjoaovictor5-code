@@ -6,3 +6,4 @@ possuo conhecimento de variadas áreas como matemática, linguagem, artes, hist�
 -Jupyter 
 -Python 
 -colab
+-https://www.linkedin.com/in/joão-victor-de-assis-032079404?utm_source=share_via&utm_content=profile&utm_medium=member_ios
